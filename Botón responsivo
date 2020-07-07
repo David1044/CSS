@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link, a:visited {
+  background-color: DarkGrey;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: Blue;
+}
+</style>
+</head>
+<body>
+
+<h2>Botón Responsivo</h2>
+<a href="https://www.bridge4you.com/" target="_blank">Acceso a Página Principal</a>
+
+</body>
+</html>
